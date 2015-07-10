@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.241.144.114:42228/z_autobuild/client.ipa</string>
+					<string>http://188.188.0.53:8001/z_autobuild/client.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
